@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"new note","text":"new note text","id":"691f00ea-aa83-45e6-ad39-9ab1e9d30748"},{"title":"treat","text":"treat if command followed","id":"73a75026-753b-48fc-a824-214aadeb85e9"},{"title":"Test3","text":"accept all compliments","id":"2fc38807-5568-4c66-8c56-b8a061b48d18"}]
