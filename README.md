@@ -15,7 +15,7 @@
 
   ## Screenshots
   
- [Notetaker screenshot_1](https://user-images.githubusercontent.com/93016627/148620379-5f36f588-3088-41c2-80ca-db4bc84333e6.png)
+ ![Notetaker screenshot_1](https://user-images.githubusercontent.com/93016627/148620379-5f36f588-3088-41c2-80ca-db4bc84333e6.png)
 
 
 ![Notetaker screenshot_2](https://user-images.githubusercontent.com/93016627/148620392-de5c3752-3558-40fe-938c-dc57082c71f3.png)
