@@ -14,9 +14,13 @@
   More effecient way to keep track of your notes to refer to them at anytime.
 
   ## Screenshots
-  ![Notetaker screenshot_1](https://user-images.githubusercontent.com/93016627/148619955-a40718b5-e360-402e-89b3-8bb22f863f51.png)
+  
+ [Notetaker screenshot_1](https://user-images.githubusercontent.com/93016627/148620379-5f36f588-3088-41c2-80ca-db4bc84333e6.png)
 
-  ![Notetaker screenshot_2](https://user-images.githubusercontent.com/93016627/148619966-2fa94ee8-fa17-4629-9ab4-67fa81239e26.png)
+
+![Notetaker screenshot_2](https://user-images.githubusercontent.com/93016627/148620392-de5c3752-3558-40fe-938c-dc57082c71f3.png)
+
+
   ## Links
 
   ## Questions
