@@ -25,6 +25,8 @@
   
  https://tranquil-chamber-83286.herokuapp.com/notes 
 
+  git@github.com:code587/NoteforNoteTaker.git 
+
   ## Questions
   Github profile is "(https://github.com/code587)" 
 
